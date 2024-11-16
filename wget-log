@@ -1,0 +1,13 @@
+--2024-11-15 14:39:43--  https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64
+Resolving github.com (github.com)... 140.82.121.4
+Connecting to github.com (github.com)|140.82.121.4|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_linux_amd64 [following]
+--2024-11-15 14:39:46--  https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_linux_amd64
+Reusing existing connection to github.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://objects.githubusercontent.com/github-production-release-asset-2e65be/43225113/fa475e2d-1c5a-4119-8ad8-4db6e0f91a7e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241115%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241115T143748Z&X-Amz-Expires=300&X-Amz-Signature=64e7c7a8abfa599fd48098741cffe47dfcd29f3a3c5dbaebf1e5229befaca6ca&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dyq_linux_amd64&response-content-type=application%2Foctet-stream [following]
+--2024-11-15 14:39:46--  https://objects.githubusercontent.com/github-production-release-asset-2e65be/43225113/fa475e2d-1c5a-4119-8ad8-4db6e0f91a7e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241115%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241115T143748Z&X-Amz-Expires=300&X-Amz-Signature=64e7c7a8abfa599fd48098741cffe47dfcd29f3a3c5dbaebf1e5229befaca6ca&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dyq_linux_amd64&response-content-type=application%2Foctet-stream
+Resolving objects.githubusercontent.com (objects.githubusercontent.com)... 185.199.109.133
+Connecting to objects.githubusercontent.com (objects.githubusercontent.com)|185.199.109.133|:443... connected.
+Unable to establish SSL connection.
